@@ -76,3 +76,8 @@ crashlytics-build.properties
 
 # Apple folder atributes file.
 .DS_Store
+
+# OnlyProjectDirectory
+/[Aa]ssets/*
+!/[Aa]ssets/Project
+!/[Aa]ssets/IwacchiProject
